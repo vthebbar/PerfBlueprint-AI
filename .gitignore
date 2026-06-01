@@ -1,0 +1,49 @@
+# --- Environment and Secrets ---
+# Protects your custom environment variables file
+env
+
+# Standard environment files (in case they are created later)
+.env
+.env.local
+.env.*
+*.env
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+ENV/
+env.bak/
+
+# --- Streamlit Configurations ---
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# 🌟 ADDITIONS FOR PERFBLUEPRINT
+# ==========================================
+
+# --- Generated Test Artifacts & Logs ---
+# Prevents committing generated test plans or run logs to the repo
+*.jmx
+*.log
+jmeter.log
+
+# --- Test Data ---
+# Prevents committing dynamic data seeds (like test_data.csv) containing real PII/credentials
+*.csv
+*.xlsx
+
+# --- IDEs and Workspace Configurations ---
+# Ignores local editor states for VS Code and PyCharm
+.vscode/
+.idea/
+*.swp
+*.swo

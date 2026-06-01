@@ -1,0 +1,12 @@
+# Python dependencies (streamlit, pyyaml, etc.)
+# --- Core UI Framework ---
+streamlit>=1.35.0         # Web application framework for building our dashboard UI
+
+# --- File Parsers & Network ---
+pyyaml>=6.0.1             # Required to parse YAML formatted Swagger/OpenAPI files
+requests>=2.31.0          # Handles all AI API calls (Gemini, OpenAI, Claude, Ollama, etc.)
+pypdf>=4.2.0              # Extracts text from PDF documentation
+python-docx>=1.1.2        # Extracts text from Word (.docx) documentation
+
+# --- Configuration & Environment ---
+python-dotenv>=1.0.1      # Loads API keys and configurations from your .env file
