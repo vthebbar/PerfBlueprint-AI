@@ -108,6 +108,6 @@ This table details the setup requirements for various third-party and custom bac
 ---
 
 <p align="center">
-  An initiative by • <a href="https://github.com/vthebbar" target="_blank> <b>Vishwanatha Hebbar</b> <a>  <br>
+  An initiative by <a href="https://github.com/vthebbar" target="_blank"><b>Vishwanatha Hebbar</b></a> <br>
   <b>Powered by AI</b> • Built with 💙 for performance engineers
 </p>
