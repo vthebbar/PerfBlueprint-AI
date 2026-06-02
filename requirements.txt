@@ -10,3 +10,9 @@ python-docx>=1.1.2        # Extracts text from Word (.docx) documentation
 
 # --- Configuration & Environment ---
 python-dotenv>=1.0.1      # Loads API keys and configurations from your .env file
+
+# --- Optional: For Advanced AI Interactions ---
+openai>=1.0.0             # OpenAI's official Python client library
+google-genai>=0.1.0       # Official Google Gemini API SDK client
+ollama>=0.1.0             # Official Ollama API client for local models
+anthropic>=0.40.0         # Official Anthropic Claude API client library
