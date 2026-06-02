@@ -94,12 +94,12 @@ This table details the setup requirements for various third-party and custom bac
 
 | Provider | AI Provider Dropdown Value | *AI Model Name  | Base URL | API Key |
 | --- | --- | --- | --- | --- |
-| **GroqCloud** | `OpenAI Compatible / Custom` | `llama-3.3-70b-versatile` | `https://api.groq.com/openai/v1` | Get API key from [GroqCloud Console]() |
-| **DeepSeek** | `OpenAI Compatible / Custom` | `deepseek-v4-flash` | `https://api.deepseek.com/v1` | Get API key from [DeepSeek Platform]() |
-| **OpenRouter** | `OpenAI Compatible / Custom` | `openrouter/free` | `https://openrouter.ai/api/v1` | Get API key from [OpenRouter Dashboard]() |
+| **GroqCloud** | `OpenAI Compatible / Custom` | `llama-3.3-70b-versatile` | `https://api.groq.com/openai/v1` | Get API key from GroqCloud Console |
+| **DeepSeek** | `OpenAI Compatible / Custom` | `deepseek-v4-flash` | `https://api.deepseek.com/v1` | Get API key from DeepSeek Platform |
+| **OpenRouter** | `OpenAI Compatible / Custom` | `openrouter/free` | `https://openrouter.ai/api/v1` | Get API key from OpenRouter Dashboard |
 | **Local Ollama** | `OpenAI Compatible / Custom` | `qwen2.5-coder:7b` | `http://localhost:11434/v1` | *Not required (Runs locally)* |
-| **OpenAI** | `OpenAI Compatible / Custom` | `gpt-4o` / `gpt-4o-mini` | `https://api.openai.com/v1` | Get API key from [OpenAI Platform]() |
-| **xAI Grok** | `OpenAI Compatible / Custom` | `grok-4.3` | `https://api.x.ai/v1` | Get API key from [xAI Cloud Console]() |
+| **OpenAI** | `OpenAI Compatible / Custom` | `gpt-4o` / `gpt-4o-mini` | `https://api.openai.com/v1` | Get API key from OpenAI Platform |
+| **xAI Grok** | `OpenAI Compatible / Custom` | `grok-4.3` | `https://api.x.ai/v1` | Get API key from xAI Cloud Console |
 
 **Note** : *AI Model Name: You may use other available models from selected provider as well.
 
