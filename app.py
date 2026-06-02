@@ -276,7 +276,7 @@ st.markdown("""
 
 st.title("🛠️ PerfBlueprint : AI-Augmented JMX Test Plan Generator")
 st.subheader("Transform Swagger/OpenAPI/Doc/PDF API Specifications into JMeter Test Plans")
-st.caption("An open-source AI initiative built with 💙 for performance engineers by **Vishwanatha Hebbar** • View on [GitHub](https://github.com/vthebbar/PerfBlueprint-AI)")
+st.caption("An open-source initiative by **Vishwanatha Hebbar** • View on [GitHub](https://github.com/vthebbar/PerfBlueprint-AI) | Built with 💙 | Built for performance engineers")
 st.markdown("---")
 
 if "extracted_endpoints" not in st.session_state:
