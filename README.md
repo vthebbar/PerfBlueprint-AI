@@ -33,14 +33,17 @@ Before launching the tool, ensure you have the following installed on your machi
 ## 📦 Installation & Setup
 
 1. **Clone or copy** the project files into a local directory on your machine.
-2. Rename `env.example` to `.env` file in the project root directory   
+2. Rename `env.example` to `env` or `env` file in the project root directory (if you skip this step `.env` file will be automatically created in the project root directory)  
 ---
 
 ## 🖥️ How to Run the App
 
 ### On Windows:
 
-Simply double-click the `run.bat` file.
+Simply double-click the `run.bat` file inside project root directory.
+
+---
+
 
 ### On Mac / Linux:
 
@@ -109,5 +112,5 @@ This table details the setup requirements for various third-party and custom bac
 
 <p align="center">
   An initiative by <a href="https://github.com/vthebbar" target="_blank"><b>Vishwanatha Hebbar</b></a> <br>
-  <b>Powered by AI</b> • Built with 💙 for performance engineers
+  <b>Powered by AI</b> • Built with 💙 |• Built for performance engineers |
 </p>
